@@ -8,6 +8,16 @@
 	margin-left:auto;
 	max-width:1050px;	
 }
+
+.makeRed {
+	background-color: red !important;
+}
+
+.makeBorder {
+	border-width: 2px;
+	border-color: #000000;
+}
+
 .bottom_button{
 	display: flex;
 	box-sizing:border-box;
@@ -36,7 +46,6 @@
 	padding: 20px;
 	background-color: #fff;
 }
-
 
 /*************************
 Navigation
